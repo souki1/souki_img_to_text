@@ -1,0 +1,18 @@
+INFO:flask_app:Received image
+ERROR:flask_app:OCR Error: [WinError 5] Access is denied
+INFO:flask_app:Received image
+ERROR:flask_app:OCR Error: [WinError 5] Access is denied
+INFO:flask_app:Received image
+ERROR:flask_app:OCR Error: [WinError 5] Access is denied
+INFO:flask_app:Received image
+INFO:flask_app:fuction called
+ERROR:flask_app:OCR Error: [WinError 5] Access is denied
+INFO:flask_app:Received image
+INFO:flask_app:fuction called
+ERROR:flask_app:OCR Error: [WinError 5] Access is denied
+INFO:flask_app:Received image
+INFO:flask_app:fuction called
+ERROR:flask_app:OCR Error: [WinError 5] Access is denied
+INFO:flask_app:Received image
+INFO:flask_app:Received image
+INFO:flask_app:Received image

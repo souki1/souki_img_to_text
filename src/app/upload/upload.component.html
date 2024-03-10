@@ -1,0 +1,16 @@
+<!-- my-component.component.html -->
+<input type="file" accept="Image/*" (change)="onFileSelected($event)">
+
+
+<button (click)="uploadImage()">Upload Image</button>
+<br>
+ 
+    <img width="550px" height="350px" *ngIf="imageUrl" [src]="imageUrl" alt="Uploaded Image">
+
+<br>
+
+<pre *ngIf="finaloutput">
+</pre>
+<textarea name="" id="" cols="30" rows="10">
+    {{message}}
+</textarea>
